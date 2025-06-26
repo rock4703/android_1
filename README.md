@@ -15,7 +15,7 @@
   - 依赖gradle工具，首次编译需下载大量组件，建议配置阿里云效Maven加速
   - 安装完成后需新建Android应用并编译运行，验证环境正确性
 - **安装效果**：
-  ![Android Studio运行界面](android/android studio.png)  
+  ![Android Studio运行界面](android/android_studio.png)  
   *图1：Android Studio成功启动后，显示项目结构及MainActivity.kt代码编辑界面*
 
 
@@ -32,7 +32,7 @@
     *图2：Anaconda Navigator主界面，可从中启动Jupyter Notebook等应用*
   
   - Jupyter Notebook运行界面：  
-    ![Jupyter Notebook](android/jupyter notebook.png)  
+    ![Jupyter Notebook](android/jupyter_notebook.png)  
     *图3：Jupyter Notebook成功启动后，显示本地文件目录的网页界面（地址：localhost:8888/tree）*
 
 
